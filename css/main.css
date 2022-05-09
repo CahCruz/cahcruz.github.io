@@ -70,7 +70,7 @@ main div {
     display: none;
 }
 
-@media screen and (max-width:1280px) {
+@media screen and (max-width:1040px) {
     main {
         padding: 16px 0;
     }

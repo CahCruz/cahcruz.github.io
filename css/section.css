@@ -67,7 +67,7 @@ section {
     transform: scale(1.5);
 }
 
-@media screen and (max-width:1280px) {
+@media screen and (max-width:1040px) {
     section {
         width: 360px;
         height: 440px;

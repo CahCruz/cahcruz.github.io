@@ -33,7 +33,7 @@ nav li a:hover{
     color: rgba(255, 229, 229, 0.5);
 }
 
-@media screen and (max-width:1280px) {
+@media screen and (max-width:1040px) {
     header {
         display: none;
     }
